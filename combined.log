@@ -1,0 +1,11 @@
+{"level":"info","message":"Hola mundo","service":"user-service"}
+{"level":"info","message":"Hola mundo"}
+{"level":"info","message":"Hola mundo","service":"app.js"}
+{"level":"info","message":"Hola mundo","service":"app.js"}
+{"level":"info","message":"Esto es algo malo","service":"app.js"}
+{"level":"info","message":"Hola mundo","service":"app.js"}
+{"level":"error","message":"error Esto es algo malo","service":"app.js"}
+{"level":"info","message":"Hola mundo","service":"app.js","timestamp":"2023-08-31T17:11:22.487Z"}
+{"level":"error","message":"error Esto es algo malo","service":"app.js","timestamp":"2023-08-31T17:11:22.491Z"}
+{"level":"info","message":"Hola mundo","service":"app.js","timestamp":"2023-09-01T00:22:02.880Z"}
+{"level":"error","message":"error Esto es algo malo","service":"app.js","timestamp":"2023-09-01T00:22:02.884Z"}
